@@ -1,0 +1,60 @@
+2025-06-09T22:02:48.437+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Starting SpringMvcApplication using Java 17.0.10 with PID 7096 (C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC\target\classes started by Vikrant in C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC)
+2025-06-09T22:02:48.438+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-06-09T22:02:48.737+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-09T22:02:48.740+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-09T22:02:48.743+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-06-09T22:02:48.771+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-06-09T22:02:48.772+05:30  INFO 7096 --- [SpringMVC] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 331 ms
+2025-06-09T22:02:48.879+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-09T22:02:48.907+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-09T22:02:48.911+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Started SpringMvcApplication in 0.593 seconds (process running for 8167.422)
+2025-06-09T22:02:48.916+05:30  INFO 7096 --- [SpringMVC] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-06-09T22:02:58.333+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-09T22:02:58.347+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-09T22:02:58.348+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-09T22:02:58.363+05:30 ERROR 7096 --- [SpringMVC] [http-nio-8080-exec-1] c.e.demo.controller.ProductController    : productNametesting
+2025-06-09T22:02:58.363+05:30  WARN 7096 --- [SpringMVC] [http-nio-8080-exec-1] c.e.demo.controller.ProductController    : productId1234
+2025-06-09T22:02:58.363+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-1] c.e.demo.controller.ProductController    : productRating23
+2025-06-09T22:04:46.938+05:30  INFO 7096 --- [SpringMVC] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-06-09T22:04:46.955+05:30  INFO 7096 --- [SpringMVC] [Thread-142] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-09T22:04:47.208+05:30  INFO 7096 --- [SpringMVC] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-09T22:04:47.642+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Starting SpringMvcApplication using Java 17.0.10 with PID 7096 (C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC\target\classes started by Vikrant in C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC)
+2025-06-09T22:04:47.647+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-06-09T22:04:47.970+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-09T22:04:47.973+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-09T22:04:47.973+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-06-09T22:04:48.060+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-06-09T22:04:48.060+05:30  INFO 7096 --- [SpringMVC] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 410 ms
+2025-06-09T22:04:48.250+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-09T22:04:48.326+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-09T22:04:48.328+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Started SpringMvcApplication in 0.954 seconds (process running for 8286.84)
+2025-06-09T22:04:48.329+05:30  INFO 7096 --- [SpringMVC] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-06-09T22:04:51.269+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-09T22:04:51.269+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-09T22:04:51.270+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-09T22:04:51.272+05:30 ERROR 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productNametesting
+2025-06-09T22:04:51.273+05:30  WARN 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productId1234
+2025-06-09T22:04:51.273+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productRating23
+2025-06-09T22:05:36.116+05:30  INFO 7096 --- [SpringMVC] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-06-09T22:05:36.698+05:30  INFO 7096 --- [SpringMVC] [Thread-146] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-09T22:05:37.391+05:30  INFO 7096 --- [SpringMVC] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-06-09T22:05:37.540+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Starting SpringMvcApplication using Java 17.0.10 with PID 7096 (C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC\target\classes started by Vikrant in C:\Users\Vikrant\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\SpringMVC)
+2025-06-09T22:05:37.540+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-06-09T22:05:37.916+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-06-09T22:05:37.923+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-09T22:05:37.923+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.41]
+2025-06-09T22:05:37.949+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2025-06-09T22:05:37.950+05:30  INFO 7096 --- [SpringMVC] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 408 ms
+2025-06-09T22:05:38.145+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-09T22:05:38.153+05:30  INFO 7096 --- [SpringMVC] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-06-09T22:05:38.156+05:30  INFO 7096 --- [SpringMVC] [restartedMain] com.example.demo.SpringMvcApplication    : Started SpringMvcApplication in 0.679 seconds (process running for 8336.667)
+2025-06-09T22:05:38.160+05:30  INFO 7096 --- [SpringMVC] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-06-09T22:05:40.777+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-09T22:05:40.777+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-09T22:05:40.779+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-06-09T22:05:40.787+05:30 ERROR 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productNametesting
+2025-06-09T22:05:40.787+05:30  WARN 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productId1234
+2025-06-09T22:05:40.789+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-2] c.e.demo.controller.ProductController    : productRating23
+2025-06-09T22:05:45.394+05:30 ERROR 7096 --- [SpringMVC] [http-nio-8080-exec-3] c.e.demo.controller.ProductController    : productNametesting
+2025-06-09T22:05:45.395+05:30  WARN 7096 --- [SpringMVC] [http-nio-8080-exec-3] c.e.demo.controller.ProductController    : productId1234
+2025-06-09T22:05:45.395+05:30  INFO 7096 --- [SpringMVC] [http-nio-8080-exec-3] c.e.demo.controller.ProductController    : productRating23
